@@ -10,4 +10,4 @@ To do this I:
   
   -Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days
   
-  -Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your    observations
+  -Include 3 observations about the results of the study. Use the visualizations I generated from the study data as the basis for my    observations
