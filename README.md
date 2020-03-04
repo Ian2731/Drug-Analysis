@@ -9,4 +9,5 @@ To do this I:
   -Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
   
   -Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days
+  
   -Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your    observations
